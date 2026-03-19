@@ -143,8 +143,8 @@ python app.py
 
 ## 🔗 Links
 - 📓 **Kaggle Notebook:** https://www.kaggle.com/code/f233079aminanaveed/ds-ass01-23f-3079-23f-6032/
-- 📝 **Medium Article:** 
-- 💼 **LinkedIn Post:** 
+- 📝 **Medium Article:** https://medium.com/@iaminanaveed/building-hsris-a-hybrid-semantic-retrieval-system-from-scratch-with-pytorch-glove-b1515d6cbb2a 
+- 💼 **LinkedIn Post:** https://www.linkedin.com/posts/iamna_nlp-machinelearning-pytorch-activity-7440359016440053761-vAR8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHnd6MBXjiBaZam5gfrlrwXMJnWpEmkWqs
 
 ---
 
